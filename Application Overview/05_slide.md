@@ -1,4 +1,4 @@
-!SLIDE[bg=_images/backgrounds/white_bg.png]
+!SLIDE[bg=_images/backgrounds/white_bg.png
 
 # OCR Microservice
 
@@ -13,8 +13,8 @@
 # OCR Microservice
 
 * In comes TensorFlow and Python3!
-* Coworker was able to train a neural net specifically on cropped imaages we
-  had obtained from running our app and storing in a Kubernetes persistent
+* Coworker was able to train a neural net specifically on cropped images we
+  had obtained from running our app and storing them  in a Kubernetes persistent
   volume.
 * The pre-trained model is provided at build time for the OCR container.
 * Flexibility of container deployments allows us to deliver updates to models

@@ -24,8 +24,6 @@
     * Keep track of our production releases with a helm-generated name.
     * Easily manage our Kubernetes manifest files by only needing to edit one
       file instead of n-number of YAML files related to Kubernetes deployments.
-* Allows you to deploy Kubernetes applications without needing to know a whole
-  lot about Kubernetes itself.
 
 !SLIDE[bg=_images/backgrounds/white_bg.png] code
 

@@ -6,9 +6,9 @@
 
 .blockwhite Thanks!
 
-.blockteal dev.rotisserie.tv
+.blockteal https://dev.rotisserie.tv
 
-.blockteal github.com/IBM/rotisserie
+.blockteal https://github.com/IBM/rotisserie
 
 .blockteal @eggshellcullen
 

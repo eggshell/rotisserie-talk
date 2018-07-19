@@ -12,15 +12,15 @@
 
 # OCR Microservice
 
-* In comes TensorFlow and Python3!
-* Coworker was able to train a neural net specifically on cropped images we
+* In comes TensorFlow and Python!
+* Ryan Moe was able to train a neural net specifically on cropped images we
   had obtained from running our app and storing them  in a Kubernetes persistent
   volume.
 * The pre-trained model is provided at build time for the OCR container.
 * Flexibility of container deployments allows us to deliver updates to models
   as easily as any other part of the app.
 * Allows us to tell whether a game is in the lobby or not.
-* Has improved the accuracy of the OCR up over 90%.
+* Has improved the accuracy of the OCR up to 99%.
 
 !SLIDE[bg=_images/backgrounds/white_bg.png] code
 

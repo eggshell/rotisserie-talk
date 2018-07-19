@@ -13,3 +13,7 @@
 .blockteal @eggshellcullen
 
 .blockteal mctaylor@us.ibm.com
+
+!SLIDE[bg=_images/callforcode1.png]
+
+!SLIDE[bg=_images/callforcode2.png]

@@ -4,7 +4,7 @@
 
 * Unfortunately, there is no good solution in node.js for recording raw twitch
   streams (that I am aware of; If you know of one, let me know!).
-* Luckily, there is a python package called Livestreamer which makes this
+* Luckily, there is a python package called livestreamer which makes this
   pretty easy.
 * For each stream, we concurrently spawn a livestreamer process to record a
   second or two of footage, wait a few seconds, then kill it.

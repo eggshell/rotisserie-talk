@@ -19,5 +19,3 @@
 * Will Plusnick - Developer Advocate, IBM
 * Mike Petersen - Developer Advocate, IBM
 * Ryan Moe - Developer Advocate, IBM
-* We focus on advocating for our managed Kubernetes platform, as well as for
-  open source container technologies in general.

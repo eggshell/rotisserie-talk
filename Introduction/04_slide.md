@@ -7,5 +7,5 @@
 * Application engine written entirely in node.js.
 * OCR engine written in Python and leverages TensorFlow (more on that later),
   but previously used Tesseract (and was unreliable).
-* currently only focuses on PlayerUnknown's BattleGrounds, but it will
-  incorporate Fortnite soon enough.
+* currently focuses on Fortnite, but its development predates its release as it
+  was focused on PlayerUnknown's BattleGrounds.

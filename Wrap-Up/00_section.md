@@ -6,7 +6,7 @@
 
 .blockwhite Thanks!
 
-.blockteal https://dev.rotisserie.tv
+.blockteal https://fortnite.rotisserie.tv
 
 .blockteal https://github.com/IBM/rotisserie
 
